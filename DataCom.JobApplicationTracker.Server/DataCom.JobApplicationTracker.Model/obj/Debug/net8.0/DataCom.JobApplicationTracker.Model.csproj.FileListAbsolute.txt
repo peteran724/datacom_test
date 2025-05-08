@@ -1,0 +1,11 @@
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\bin\Debug\net8.0\DataCom.JobApplicationTracker.Model.deps.json
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\bin\Debug\net8.0\DataCom.JobApplicationTracker.Model.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\bin\Debug\net8.0\DataCom.JobApplicationTracker.Model.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\DataCom.JobApplicationTracker.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\DataCom.JobApplicationTracker.Model.AssemblyInfoInputs.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\DataCom.JobApplicationTracker.Model.AssemblyInfo.cs
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\DataCom.JobApplicationTracker.Model.csproj.CoreCompileInputs.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\DataCom.JobApplicationTracker.Model.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\refint\DataCom.JobApplicationTracker.Model.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\DataCom.JobApplicationTracker.Model.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Model\obj\Debug\net8.0\ref\DataCom.JobApplicationTracker.Model.dll

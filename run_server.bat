@@ -1,0 +1,3 @@
+cd DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Server
+dotnet run
+pause

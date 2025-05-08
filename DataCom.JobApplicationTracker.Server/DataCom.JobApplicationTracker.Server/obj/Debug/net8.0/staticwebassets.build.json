@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YRUiaHhLVWZ7gffTEQcK4oylGCBI0ADuPVRws7CD5nA=",
+  "Source": "DataCom.JobApplicationTracker.Server",
+  "BasePath": "_content/DataCom.JobApplicationTracker.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

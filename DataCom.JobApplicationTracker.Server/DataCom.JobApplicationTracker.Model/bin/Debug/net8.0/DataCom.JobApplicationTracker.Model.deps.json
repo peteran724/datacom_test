@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataCom.JobApplicationTracker.Model/1.0.0": {
+        "runtime": {
+          "DataCom.JobApplicationTracker.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataCom.JobApplicationTracker.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

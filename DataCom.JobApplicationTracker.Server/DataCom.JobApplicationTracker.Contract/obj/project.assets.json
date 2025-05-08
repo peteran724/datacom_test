@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DataCom.JobApplicationTracker.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DataCom.JobApplicationTracker.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataCom.JobApplicationTracker.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataCom.JobApplicationTracker.Model/1.0.0": {
+      "type": "project",
+      "path": "../DataCom.JobApplicationTracker.Model/DataCom.JobApplicationTracker.Model.csproj",
+      "msbuildProject": "../DataCom.JobApplicationTracker.Model/DataCom.JobApplicationTracker.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DataCom.JobApplicationTracker.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Contract\\DataCom.JobApplicationTracker.Contract.csproj",
+      "projectName": "DataCom.JobApplicationTracker.Contract",
+      "projectPath": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Contract\\DataCom.JobApplicationTracker.Contract.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Contract\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj": {
+              "projectPath": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

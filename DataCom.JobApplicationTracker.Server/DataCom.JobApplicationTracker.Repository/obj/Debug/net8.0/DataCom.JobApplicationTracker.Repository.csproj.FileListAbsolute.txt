@@ -1,0 +1,15 @@
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\bin\Debug\net8.0\DataCom.JobApplicationTracker.Repository.deps.json
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\bin\Debug\net8.0\DataCom.JobApplicationTracker.Repository.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\bin\Debug\net8.0\DataCom.JobApplicationTracker.Repository.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\bin\Debug\net8.0\DataCom.JobApplicationTracker.Model.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\bin\Debug\net8.0\DataCom.JobApplicationTracker.Model.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom.JobApplicationTracker.Repository.csproj.AssemblyReference.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom.JobApplicationTracker.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom.JobApplicationTracker.Repository.AssemblyInfoInputs.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom.JobApplicationTracker.Repository.AssemblyInfo.cs
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom.JobApplicationTracker.Repository.csproj.CoreCompileInputs.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom..42C295DB.Up2Date
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom.JobApplicationTracker.Repository.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\refint\DataCom.JobApplicationTracker.Repository.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\DataCom.JobApplicationTracker.Repository.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Repository\obj\Debug\net8.0\ref\DataCom.JobApplicationTracker.Repository.dll

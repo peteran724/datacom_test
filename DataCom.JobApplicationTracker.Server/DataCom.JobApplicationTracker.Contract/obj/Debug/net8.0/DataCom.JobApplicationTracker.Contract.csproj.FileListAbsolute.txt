@@ -1,0 +1,15 @@
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\bin\Debug\net8.0\DataCom.JobApplicationTracker.Contract.deps.json
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\bin\Debug\net8.0\DataCom.JobApplicationTracker.Contract.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\bin\Debug\net8.0\DataCom.JobApplicationTracker.Contract.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\bin\Debug\net8.0\DataCom.JobApplicationTracker.Model.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\bin\Debug\net8.0\DataCom.JobApplicationTracker.Model.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom.JobApplicationTracker.Contract.csproj.AssemblyReference.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom.JobApplicationTracker.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom.JobApplicationTracker.Contract.AssemblyInfoInputs.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom.JobApplicationTracker.Contract.AssemblyInfo.cs
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom.JobApplicationTracker.Contract.csproj.CoreCompileInputs.cache
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom..C1B1E901.Up2Date
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom.JobApplicationTracker.Contract.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\refint\DataCom.JobApplicationTracker.Contract.dll
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\DataCom.JobApplicationTracker.Contract.pdb
+D:\Programs\DataCom.JobApplicationTracker\DataCom.JobApplicationTracker.Server\DataCom.JobApplicationTracker.Contract\obj\Debug\net8.0\ref\DataCom.JobApplicationTracker.Contract.dll

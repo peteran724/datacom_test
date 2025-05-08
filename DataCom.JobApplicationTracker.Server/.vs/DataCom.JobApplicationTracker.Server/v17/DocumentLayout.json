@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40870CAB-DD5A-4EAF-AEFB-D68463AF74A7}|DataCom.JobApplicationTracker.Service\\DataCom.JobApplicationTracker.Service.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.service\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40870CAB-DD5A-4EAF-AEFB-D68463AF74A7}|DataCom.JobApplicationTracker.Service\\DataCom.JobApplicationTracker.Service.csproj|solutionrelative:datacom.jobapplicationtracker.service\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\dto\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\dto\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D41B4E8-2897-4FD3-9AB4-45D6D4A4F0C3}|DataCom.JobApplicationTracker.Repository\\DataCom.JobApplicationTracker.Repository.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.repository\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D41B4E8-2897-4FD3-9AB4-45D6D4A4F0C3}|DataCom.JobApplicationTracker.Repository\\DataCom.JobApplicationTracker.Repository.csproj|solutionrelative:datacom.jobapplicationtracker.repository\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D41B4E8-2897-4FD3-9AB4-45D6D4A4F0C3}|DataCom.JobApplicationTracker.Repository\\DataCom.JobApplicationTracker.Repository.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.repository\\ijobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D41B4E8-2897-4FD3-9AB4-45D6D4A4F0C3}|DataCom.JobApplicationTracker.Repository\\DataCom.JobApplicationTracker.Repository.csproj|solutionrelative:datacom.jobapplicationtracker.repository\\ijobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7398494-5B3E-4E8F-ACA7-AF52D6BBFEFB}|DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.model\\jobapplicationpagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7398494-5B3E-4E8F-ACA7-AF52D6BBFEFB}|DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj|solutionrelative:datacom.jobapplicationtracker.model\\jobapplicationpagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7398494-5B3E-4E8F-ACA7-AF52D6BBFEFB}|DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.model\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7398494-5B3E-4E8F-ACA7-AF52D6BBFEFB}|DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj|solutionrelative:datacom.jobapplicationtracker.model\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7398494-5B3E-4E8F-ACA7-AF52D6BBFEFB}|DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.model\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7398494-5B3E-4E8F-ACA7-AF52D6BBFEFB}|DataCom.JobApplicationTracker.Model\\DataCom.JobApplicationTracker.Model.csproj|solutionrelative:datacom.jobapplicationtracker.model\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D10650A-0592-4B0E-AFC1-3A69CD3D1372}|DataCom.JobApplicationTracker.Contract\\DataCom.JobApplicationTracker.Contract.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.contract\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D10650A-0592-4B0E-AFC1-3A69CD3D1372}|DataCom.JobApplicationTracker.Contract\\DataCom.JobApplicationTracker.Contract.csproj|solutionrelative:datacom.jobapplicationtracker.contract\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\dto\\jobapplicationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\dto\\jobapplicationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D41B4E8-2897-4FD3-9AB4-45D6D4A4F0C3}|DataCom.JobApplicationTracker.Repository\\DataCom.JobApplicationTracker.Repository.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.repository\\jobapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D41B4E8-2897-4FD3-9AB4-45D6D4A4F0C3}|DataCom.JobApplicationTracker.Repository\\DataCom.JobApplicationTracker.Repository.csproj|solutionrelative:datacom.jobapplicationtracker.repository\\jobapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\dto\\jobapplicationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\dto\\jobapplicationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\dto\\jobapplicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\dto\\jobapplicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\mapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\mapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\dto\\applicationstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\dto\\applicationstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\dto\\applicationstatusview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\dto\\applicationstatusview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\middleware\\exceptionhandlermiddlewareext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\middleware\\exceptionhandlermiddlewareext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|d:\\programs\\datacom.jobapplicationtracker\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{343D4BFE-E983-4D28-9966-A9C8F878063A}|DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj|solutionrelative:datacom.jobapplicationtracker.server\\datacom.jobapplicationtracker.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T07:23:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DTO\\PagedResponse.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\PagedResponse.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DTO\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:02:06.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\Response.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DTO\\Response.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\Response.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DTO\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:47:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAWwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T03:32:36.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobApplicationService.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Service\\JobApplicationService.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Service\\JobApplicationService.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Service\\JobApplicationService.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Service\\JobApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:56:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\appsettings.json",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\appsettings.json",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T04:33:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Repository\\JobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Repository\\JobApplicationRepository.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Repository\\JobApplicationRepository.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Repository\\JobApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:28:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJobApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Repository\\IJobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Repository\\IJobApplicationRepository.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Repository\\IJobApplicationRepository.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Repository\\IJobApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:29:44.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobApplicationPagedList.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\JobApplicationPagedList.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Model\\JobApplicationPagedList.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\JobApplicationPagedList.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Model\\JobApplicationPagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:08:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\JobApplication.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Model\\JobApplication.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\JobApplication.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Model\\JobApplication.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAywAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:44:04.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Model\\ApplicationStatus.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Model\\ApplicationStatus.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Model\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:45:12.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJobApplicationService.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Contract\\IJobApplicationService.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Contract\\IJobApplicationService.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Contract\\IJobApplicationService.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Contract\\IJobApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:28:47.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:02:04.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobApplicationView.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationView.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationView.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationView.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:49:45.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Repository\\JobApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Repository\\JobApplicationDbContext.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Repository\\JobApplicationDbContext.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Repository\\JobApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:20:58.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobApplicationResponse.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationResponse.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationResponse.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationResponse.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:25:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobApplicationRequest.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationRequest.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationRequest.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationRequest.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DTO\\JobApplicationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:41:41.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutomapperConfig.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Mapper\\AutomapperConfig.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\Mapper\\AutomapperConfig.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Mapper\\AutomapperConfig.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\Mapper\\AutomapperConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:56:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Program.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\Program.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\Program.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA0wCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:33:57.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationStatusRequest.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusRequest.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusRequest.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusRequest.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:46:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationStatusView.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusView.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusView.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusView.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DTO\\ApplicationStatusView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:54:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionHandlerMiddlewareExt.cs",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddlewareExt.cs",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddlewareExt.cs",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddlewareExt.cs",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\MiddleWare\\ExceptionHandlerMiddlewareExt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:01:31.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataCom.JobApplicationTracker.Server",
+              "DocumentMoniker": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj",
+              "RelativeDocumentMoniker": "DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj",
+              "ToolTip": "D:\\Programs\\DataCom.JobApplicationTracker\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj",
+              "RelativeToolTip": "DataCom.JobApplicationTracker.Server\\DataCom.JobApplicationTracker.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T04:39:08.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

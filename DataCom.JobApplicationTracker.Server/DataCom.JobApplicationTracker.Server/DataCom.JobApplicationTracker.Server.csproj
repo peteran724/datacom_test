@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.4" />
+    <PackageReference Include="NSwag.AspNetCore" Version="14.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataCom.JobApplicationTracker.Contract\DataCom.JobApplicationTracker.Contract.csproj" />
+    <ProjectReference Include="..\DataCom.JobApplicationTracker.Repository\DataCom.JobApplicationTracker.Repository.csproj" />
+    <ProjectReference Include="..\DataCom.JobApplicationTracker.Service\DataCom.JobApplicationTracker.Service.csproj" />
+  </ItemGroup>
+
+</Project>
