@@ -121,7 +121,7 @@ const ApplicationList = (
       <div className="pagination-controls">
         <button
           onClick={() => setCurrentPage(currentPage=>Number(currentPage) - 1)}
-          disabled={Number(currentPage) === 1}
+          disabled={Number(currentPage) <= 1}
         >
           Previous
         </button>
@@ -130,7 +130,7 @@ const ApplicationList = (
 
         <button
           onClick={() => setCurrentPage(currentPage=>Number(currentPage) + 1)}
-          disabled={Number(currentPage) === Number(totalPages)}
+          disabled={Number(currentPage) >= Number(totalPages)}
         >
           Next
         </button>
