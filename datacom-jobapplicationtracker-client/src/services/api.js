@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const api = axios.create({ baseURL: 'http://localhost:7092/api' });
+const api = axios.create({ baseURL: 'https://localhost:7092/api' });
 
 export const getApplications = (pageNumber, pageSize) => 
   api.get(`/applications?pageNumber=${pageNumber}&pageSize=${pageSize}`);
