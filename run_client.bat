@@ -1,4 +1,4 @@
 cd datacom-jobapplicationtracker-client
-npm install
-npm start
+call npm install
+call npm start
 pause
