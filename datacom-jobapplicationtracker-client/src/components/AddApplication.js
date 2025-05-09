@@ -7,6 +7,8 @@ const AddApplication = ({ onAdd }) => {
     const [position, setPosition] = useState('');
 
     const handleSubmit = async () => {
+        if(!company||!position)
+            return;
         await addApplication({ companyName: company, position: position });
         onAdd();
         setCompany('');
