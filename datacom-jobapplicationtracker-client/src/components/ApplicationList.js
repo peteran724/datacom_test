@@ -49,7 +49,7 @@ const ApplicationList = (
     if (success === true) {
       await getPagedList();
       setShowUpdateSuccess(true);
-      setTimeout(() => setShowUpdateSuccess(false), 5000);
+      setTimeout(() => setShowUpdateSuccess(false), 3000);
     }
 
   };
@@ -141,7 +141,10 @@ const ApplicationList = (
             min="1"
             max={totalPages}
             placeholder={currentPage}
-            onBlur={(e) => { setCurrentPage(Number(e.target.value) <= 0 ? Number(currentPage) : Number(e.target.value)) }}
+            onBlur={(e) => {
+              if (Number(e.target.value) === 0) return;
+              setCurrentPage(Number(e.target.value))
+            }}
             onKeyDown={(e) => e.preventDefault()}
             onPaste={(e) => e.preventDefault()}
           />
@@ -155,8 +158,11 @@ const ApplicationList = (
             max={totalRecords}
             placeholder={currentPageSize}
             onBlur={(e) => {
-              setCurrentPageSize(Number(e.target.value) <= 0 ? Number(currentPageSize) : Number(e.target.value));
-              setCurrentPage(1);
+              if (Number(e.target.value) === 0) return;
+              if (Number(e.target.value) !== Number(currentPageSize)) {
+                setCurrentPageSize(Number(e.target.value));
+                setCurrentPage(1);
+              }
             }}
             onKeyDown={(e) => e.preventDefault()}
             onPaste={(e) => e.preventDefault()}
