@@ -3,7 +3,7 @@
 •How to run the backend:
   ASP.NET CORE WEBAPI based on .NET 8
   1.launch the run_server.bat
-  2.go to http://localhost:7092/swagger/index.html to check the swagger ui page
+  2.go to https://localhost:7092/swagger/index.html to check the swagger ui page
 
 
 •How to run the frontend:
