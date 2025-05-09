@@ -121,7 +121,7 @@ const ApplicationList = (
       <div className="pagination-controls">
         <button
           onClick={() => setCurrentPage(currentPage=>Number(currentPage) - 1)}
-          disabled={currentPage === 1}
+          disabled={Number(currentPage) === 1}
         >
           Previous
         </button>
@@ -130,7 +130,7 @@ const ApplicationList = (
 
         <button
           onClick={() => setCurrentPage(currentPage=>Number(currentPage) + 1)}
-          disabled={currentPage === totalPages}
+          disabled={Number(currentPage) === Number(totalPages)}
         >
           Next
         </button>
@@ -142,7 +142,7 @@ const ApplicationList = (
             min="1"
             max={totalPages}
             placeholder={currentPage}
-            onBlur={(e) => { setCurrentPage(e.target.value) }}
+            onBlur={(e) => { setCurrentPage(Number(e.target.value)) }}
           />
         </div>
 
@@ -153,7 +153,7 @@ const ApplicationList = (
             min="1"
             max={totalRecords}
             placeholder={currentPageSize}
-            onBlur={(e) => { setCurrentPageSize(e.target.value) }}
+            onBlur={(e) => { setCurrentPageSize(Number(e.target.value)) }}
           />
         </div>
 
