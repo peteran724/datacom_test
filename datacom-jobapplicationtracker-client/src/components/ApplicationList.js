@@ -45,7 +45,7 @@ const ApplicationList = (
   const handleStatusChange = async (id, newStatus) => {
     const res = await updateApplication(id, newStatus);
     const success = res.data.success;
-    
+
     if (success === true) {
       await getPagedList();
       setShowUpdateSuccess(true);
@@ -154,7 +154,10 @@ const ApplicationList = (
             min="1"
             max={totalRecords}
             placeholder={currentPageSize}
-            onBlur={(e) => { setCurrentPageSize(Number(e.target.value) <= 0 ? Number(currentPageSize) : Number(e.target.value)) }}
+            onBlur={(e) => {
+              setCurrentPageSize(Number(e.target.value) <= 0 ? Number(currentPageSize) : Number(e.target.value));
+              setCurrentPage(1);
+            }}
             onKeyDown={(e) => e.preventDefault()}
             onPaste={(e) => e.preventDefault()}
           />
