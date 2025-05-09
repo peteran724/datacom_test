@@ -43,16 +43,15 @@ const ApplicationList = (
   };
 
   const handleStatusChange = async (id, newStatus) => {
-    const res=await updateApplication(id, newStatus);
-    const success=res.data.success;
-    console.log(success);
-    if(success===true)
-    {
+    const res = await updateApplication(id, newStatus);
+    const success = res.data.success;
+    
+    if (success === true) {
       await getPagedList();
       setShowUpdateSuccess(true);
-      setTimeout(() => setShowUpdateSuccess(false), 5000); 
+      setTimeout(() => setShowUpdateSuccess(false), 5000);
     }
-    
+
   };
 
 
@@ -120,7 +119,7 @@ const ApplicationList = (
 
       <div className="pagination-controls">
         <button
-          onClick={() => setCurrentPage(currentPage=>Number(currentPage) - 1)}
+          onClick={() => setCurrentPage(currentPage => Number(currentPage) - 1)}
           disabled={Number(currentPage) <= 1}
         >
           Previous
@@ -129,7 +128,7 @@ const ApplicationList = (
         <span>Page {currentPage} of {totalPages}</span>
 
         <button
-          onClick={() => setCurrentPage(currentPage=>Number(currentPage) + 1)}
+          onClick={() => setCurrentPage(currentPage => Number(currentPage) + 1)}
           disabled={Number(currentPage) >= Number(totalPages)}
         >
           Next
@@ -142,7 +141,9 @@ const ApplicationList = (
             min="1"
             max={totalPages}
             placeholder={currentPage}
-            onBlur={(e) => { setCurrentPage(Number(e.target.value)) }}
+            onBlur={(e) => { setCurrentPage(Number(e.target.value) <= 0 ? Number(currentPage) : Number(e.target.value)) }}
+            onKeyDown={(e) => e.preventDefault()}
+            onPaste={(e) => e.preventDefault()}
           />
         </div>
 
@@ -153,7 +154,9 @@ const ApplicationList = (
             min="1"
             max={totalRecords}
             placeholder={currentPageSize}
-            onBlur={(e) => { setCurrentPageSize(Number(e.target.value)) }}
+            onBlur={(e) => { setCurrentPageSize(Number(e.target.value) <= 0 ? Number(currentPageSize) : Number(e.target.value)) }}
+            onKeyDown={(e) => e.preventDefault()}
+            onPaste={(e) => e.preventDefault()}
           />
         </div>
 
